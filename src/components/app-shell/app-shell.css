@@ -1,0 +1,38 @@
+.app-shell {
+  height: 100%;
+}
+.app-shell__content {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.app-shell__nav {
+  display: flex;
+  padding-top: 32px;
+}
+.app-shell__nav .ui.header {
+  padding-top: 6px;
+}
+.app-shell__nav .ui.menu {
+  display: flex;
+  margin-top: 0;
+  margin-left: auto;
+}
+
+.app-shell__main {
+  padding-top: 32px;
+}
+
+.app-shell__footer {
+  margin-top: auto!important;
+  padding: 32px 0;
+  color: gray;
+  font-size: 12px;
+}
+.app-shell__footer span {
+  padding-right: 16px;
+}
+.app-shell__footer a {
+  padding: 0 8px;
+}

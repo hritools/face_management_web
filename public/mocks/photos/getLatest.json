@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "src": "/images/image.png",
+      "to": "/photos/1"
+    },
+    {
+      "id": 2,
+      "src": "/images/image.png",
+      "to": "/photos/2"
+    },
+    {
+      "id": 3,
+      "src": "/images/image.png",
+      "to": "/photos/3"
+    },
+    {
+      "id": 4,
+      "src": "/images/image.png",
+      "to": "/photos/1"
+    },
+    {
+      "id": 5,
+      "src": "/images/image.png",
+      "to": "/photos/1"
+    }
+  ],
+  "meta": {
+    "activePage": 1,
+    "totalPages": 1
+  }
+}
